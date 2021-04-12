@@ -6,6 +6,6 @@
 
 <hr>
 
-<img width="70%" src="https://i.imgur.com/zWxpB00.png">
+<img width="70%" src="https://i.imgur.com/QVCC70z.gif">
 
 
