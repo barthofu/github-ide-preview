@@ -4,6 +4,8 @@
 
 [You can install it here](https://greasyfork.org/fr/scripts/424926-github-ide-preview)
 
+<hr>
+
 <img width="70%" src="https://i.imgur.com/zWxpB00.png">
 
 
